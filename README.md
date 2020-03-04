@@ -1,2 +1,2 @@
 # multiThreadTaskQueue
-Inspired by xxx https://github.com/progschj/ThreadPool 
+Inspired by https://github.com/progschj/ThreadPool 
